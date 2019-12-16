@@ -1,3 +1,9 @@
+This Project has been completed in a group and I have worked with othre three tema members. 
+1. Carmen
+2. Ken
+3. Arjun
+--------------------------------------------------------------------------------------------
+
 1_review_data_for_prediction -
 
 Code to generate business_id and review_text for food establishements in Toronto 'review_text_data_generator.py'
