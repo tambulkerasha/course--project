@@ -1,4 +1,4 @@
-This Project has been completed in a group and I have worked with othre three tema members. 
+This Project had been done in a group. Please find the name of my group members. 
 1. Carmen
 2. Ken
 3. Arjun
